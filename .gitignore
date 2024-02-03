@@ -22,6 +22,9 @@
 ## test
 **/coverage
 
+database.sqlite
+api.json
+
 # misc
 .DS_Store
 
