@@ -28,8 +28,12 @@
 
     -   Create `.env` file in `packages/server`
     -   Copy the contents of `packages/server/.env.example` and paste it in the `.env`
-    -   Change the paths in the following environment variables in `.env`: 1. DATABASE_PATH=/full_path_to_this_project/db 2. APIKEY_PATH=/full_path_to_this_project/apikeys 3. SECRETKEY_PATH=/full_path_to_this_project/secret 4. LOG_PATH=/full_path_to_this_project/logs
-        I have used example path for my windows PC
+    -   Change the paths in the following environment variables in `.env`:
+        -   DATABASE_PATH=/full_path_to_this_project/db
+        -   APIKEY_PATH=/full_path_to_this_project/apikeys
+        -   SECRETKEY_PATH=/full_path_to_this_project/secret
+        -   LOG_PATH=/full_path_to_this_project/logs
+            I have used example path for my windows PC
     -   Create the `logs` folder in the root of the project
     -   Run
 
