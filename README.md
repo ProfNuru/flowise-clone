@@ -3,7 +3,7 @@
 1.  Clone the repository
 
     ```bash
-    git clone https://github.com/FlowiseAI/Flowise.git
+    git clone https://github.com/ProfNuru/flowise-clone.git
     ```
 
 2.  Go into repository folder
